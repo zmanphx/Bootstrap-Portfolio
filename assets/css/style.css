@@ -98,9 +98,10 @@ p{  margin-right: 15px;
     margin-left: 20px;
 }    
 .content_section{ 
-            width: 92%;
+            width: 75pppp%;
             background-color:#ffffff;
-            margin: 0 auto;
+            margin-left: 30px;
+            /* margin: 0 auto;*/
             border: 3px solid #dddddd;
             /*overflow: auto;*/
             height: auto;
